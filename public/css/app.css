@@ -1,3 +1,30 @@
+footer {
+  background-color: #0F2344;
+  color: #FFFFFF;
+  padding: 40px 0;
+}
+
+footer .copyright {
+  color: #F7FAFC;
+  margin: 10px;
+  text-align: center;
+  font-size: 14px;
+}
+
+footer .social-media {
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+footer .social-media ion-icon {
+  opacity: 0.75;
+  margin: 0 10px;
+  font-size: 35px;
+}
+
+footer .social-media ion-icon:hover {
+  opacity: 0.9;
+}
 /*! tailwindcss v2.0.3 | MIT License | https://tailwindcss.com */
 
 /*! modern-normalize v1.0.0 | MIT License | https://github.com/sindresorhus/modern-normalize */

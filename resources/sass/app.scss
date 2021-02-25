@@ -1,2 +1,9 @@
 @import 'colours';
 @import 'footer';
+@import 'nav';
+@import 'fonts';
+
+body {
+    background-color: $rm-dark-grey;
+    font-family: 'Nunito';
+}
